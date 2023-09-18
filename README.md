@@ -40,4 +40,5 @@ Atualmente trabalho com Engenharia de Dados :construction_worker: :game_die: mas
 
 ## **Projetos**
 
-Em construção :hammer_and_pick:
+- [etl-github-api](https://github.com/henraz/etl-github-api): Projeto de ingestão de dados no Google Cloud Storage, utilizando pandas, com dados obtidos através da API do Github.
+- [etl-football-transfer](https://github.com/henraz/etl-football-transfer): Criação de um processo de ETL utilizando PySpark com dados (Kaggle) de transferência de jogadores de algumas ligas de futebol Europeu com o objeto de armazená-los em um Data Warehouse contruído no Google BigQuery.
