@@ -23,7 +23,7 @@ Atualmente trabalho com Engenharia de Dados :construction_worker: :game_die: mas
 ![Bigquery](https://img.shields.io/badge/BigQuery-fffdc1?style=for-the-badge&logo=googlebigquery)
 ![Azure](https://img.shields.io/badge/Azure-fffdc1?style=for-the-badge&logo=microsoftazure&logoColor=0055ff)
 ![Linux](https://img.shields.io/badge/Linux-fffdc1?style=for-the-badge&logo=linux&logoColor=000)
-![Statistics](https://img.shields.io/badge/statsiticcs-fffdc1?style=for-the-badge&logo=Statistics&logoColor=000)
+![Statistics](https://img.shields.io/badge/statistics-fffdc1?style=for-the-badge&logo=statistics&logoColor=000)
 ![Physics](https://img.shields.io/badge/physics-fffdc1?style=for-the-badge&logo=Physics&logoColor=000)
 
 ## **Em desenvolvimento**
