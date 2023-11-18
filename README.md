@@ -15,11 +15,12 @@ Atualmente trabalho com Engenharia de Dados :construction_worker: :game_die: mas
 
 ![Python](https://img.shields.io/badge/Python-fffdc1?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-fffdc1?style=for-the-badge&logo=pandas&logoColor=000)
-![Matplotlib](https://img.shields.io/badge/Pandas-fffdc1?style=for-the-badge&logo=matplotlib&logoColor=000)
+![Plotly](https://img.shields.io/badge/Plotly-fffdc1?style=for-the-badge&logo=plotly&logoColor=000)
 ![Spark](https://img.shields.io/badge/Spark-fffdc1?style=for-the-badge&logo=apachespark)
 ![Airflow](https://img.shields.io/badge/Airflow-fffdc1?style=for-the-badge&logo=apacheairflow&logoColor=000)
 ![SQLite](https://img.shields.io/badge/SQLite-fffdc1?style=for-the-badge&logo=sqlite&logoColor=000)
 ![GCP](https://img.shields.io/badge/Google_Cloud-fffdc1?style=for-the-badge&logo=google-cloud)
+![Bigquery](https://img.shields.io/badge/BigQuery-fffdc1?style=for-the-badge&logo=googlebigquery)
 ![Azure](https://img.shields.io/badge/Azure-fffdc1?style=for-the-badge&logo=microsoftazure&logoColor=0055ff)
 ![Linux](https://img.shields.io/badge/Linux-fffdc1?style=for-the-badge&logo=linux&logoColor=000)
 ![Statistics](https://img.shields.io/badge/statsiticcs-fffdc1?style=for-the-badge&logo=Statistics&logoColor=000)
