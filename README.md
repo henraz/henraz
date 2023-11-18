@@ -30,7 +30,7 @@ Atualmente trabalho com Engenharia de Dados :construction_worker: :game_die: mas
 
 ![Flask](https://img.shields.io/badge/Flask-fffdc1?style=for-the-badge&logo=flask&logoColor=000)
 ![Cassandra](https://img.shields.io/badge/Cassandra-fffdc1?style=for-the-badge&logo=apachecassandra&logoColor=000)
-![Scikitlearn](https://img.shields.io/badge/Scikitlearn-fffdc1?style=for-the-badge&logo=scikitlearn&logoColor=000)
+![Scikitlearn](https://img.shields.io/badge/Scikit_learn-fffdc1?style=for-the-badge&logo=scikitlearn&logoColor=000)
 
 ## **Estatísticas**
 
