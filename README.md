@@ -12,6 +12,7 @@ Atualmente trabalho com Engenharia de Dados :construction_worker: :game_die: mas
 
 - [sistema-iot-solo](https://github.com/henraz/sistema-IoT-solo): Projeto de um sistema IoT de controle das condições climáticas e do solo utilizando a placa NodeMCU com sensores de temperatura ambiente, umidade relativa do ar, nível de luminosidade e umidade do solo. Os dados são enviados para a plataforma Adafruit IO. Por fim, utiliza-se o Jupyter Notebook para obter dados da plataforma via API REST e realizar análises estatísicas por meio do Pandas e Matplotlib.
 - [etl-football-transfer](https://github.com/henraz/etl-football-transfer): Criação de um processo de ETL utilizando PySpark com dados (Kaggle) de transferência de jogadores de algumas ligas de futebol Europeu com o objeto de armazená-los em um Data Warehouse contruído no Google BigQuery.
+- [streaming-arduino](https://github.com/henraz/streaming-arduino): Projeto de streaming de dados de sensores de luminosidade, temperatura ambiente e umidade relativa do ar usando um Arduino e GCP: Pub/Sub, Dataflow (Apache Beam) e BigQuery.
 - [etl-github-api](https://github.com/henraz/etl-github-api): Projeto de ingestão de dados no Google Cloud Storage, utilizando pandas, com dados obtidos através da API do Github.
 
 
